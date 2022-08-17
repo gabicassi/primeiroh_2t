@@ -1,0 +1,69 @@
+corpo {
+  cor de fundo :  rgb ( 187 ,  187 ,  185 );
+  margem :  0 ;
+  preenchimento :  0 ;
+}
+h1 {
+  text-align : centro;
+}
+. menuPrincipal {
+   posição : absoluta;
+   topo :  0 ;
+   esquerda :  0 ;
+   largura :  100 % ;
+   altura :  45px ; _
+   fundo :  rgb ( 37 ,  54 ,  41 );
+   font-family :  'Lucida Sans' ,  'Lucida Sans Regular' ,  'Lucida Grande' ,  'Lucida Sans Unicode' , Geneva , Verdana , sans-serif;
+}
+navegue  { _
+   tipo de estilo de lista : nenhum;
+   margem :  0 ;
+   preenchimento :  0 ;
+   estouro :  0 ;
+}
+li {
+  flutuar : esquerda;
+}
+li  a {
+  exibição : bloco;
+  cor :  rgb ( 255 ,  255 ,  255 );
+  text-align : centro;
+  preenchimento :  14 px  16 px ;
+  decoração de texto : nenhuma;
+}
+li  a : pairar {
+   cor : preto;
+   fundo :  rgb ( 156 ,  228 ,  212 );
+}
+#aguia { _
+  largura :  15 % ;
+}
+. caixa Águia {
+  posição : absoluta;
+  topo :  45px ; _
+  esquerda :  0 ;
+  largura :  90 % ;
+  altura :  155px ; _
+  fundo :  rgb ( 170 ,  201 ,  211 );
+  margem :  20px ; _
+  largura da borda :  20 px ;
+  cor da borda : azul;
+  estilo de borda : sólido;
+  preenchimento :  20px ; _
+  exibição : flexível;
+  justificar-conteúdo : centro;
+}
+. rodape {
+   posição : absoluta;
+   inferior :  0 ;
+   largura :  100 % ;
+   altura :  35px ; _
+   fundo : preto;
+   cor : amêndoa branqueada;
+   exibição : flexível;
+   justificar-conteúdo : centro;
+}
+. conteudo {
+   posição : absoluta;
+   topo :  45px ; _
+}
